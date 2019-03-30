@@ -1,0 +1,18 @@
+h1{
+    color: grey;
+    text-align: center;
+}
+
+button{
+    color: chocolate;
+    border: 2px solid black;
+    box-shadow: 2px 3px grey;
+}
+.cont{
+    border: 2px black solid;
+}
+#score-0{
+    color: chocolate;
+    font-size: 5em;
+
+}
